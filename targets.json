@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Buffer-Overflow-Sample",
+    "repo_url": "https://github.com/vulnerable-repos/c-buffer-overflow-example",
+    "expected_cve": "N/A - Educational"
+  }
+]

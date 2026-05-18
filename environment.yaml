@@ -1,0 +1,12 @@
+name: mythos-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pandas
+  - matplotlib
+  - seaborn
+  - pip:
+    - anthropic[bedrock]  # Assuming access via AWS or Project Glasswing
+    - e2b-code-interpreter # For microVM execution
